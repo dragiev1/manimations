@@ -1,9 +1,5 @@
 from manim import *
 
-
-# 
-
-
 class BraceAnnotation(Scene):
   def construct(self):
     numberplane = NumberPlane()
